@@ -2,6 +2,8 @@
 
 Flappy bird like game made in c with raylib!
 
+![flappy cube game screenshot](/assets/images/flappy_cube.png)
+
 Sound effect are form this [8bit/16bit Sound Effects Pack by JDWasabi](https://jdwasabi.itch.io/8-bit-16-bit-sound-effects-pack) on itch.io
 
 ### Useful links
